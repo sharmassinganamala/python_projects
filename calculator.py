@@ -49,7 +49,7 @@ def calculator():
         print(f"{num1} {operator} {num2} = {answer}")
         countinue = input("Type y if you want to countinue or Type 'n' want to start again ?").lower()
         if countinue == "y":
-            num1 = answer 
+            num1 = answer
         else:
             should_countinue = False
             calculator()
