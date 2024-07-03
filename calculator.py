@@ -1,6 +1,3 @@
-from turtle import clear
-import os
-import sys
 logo = """
  _____________________
 |  _________________  |
